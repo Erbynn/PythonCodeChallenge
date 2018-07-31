@@ -1,0 +1,5 @@
+x = input('>>Enter an integer value: ')
+y = input('>>Enter another inter value: ')
+num1 = int(x)
+num2 = int(y)
+print(num1, '+', num2, '=', num1 + num2)
